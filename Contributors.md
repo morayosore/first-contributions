@@ -2,7 +2,6 @@
 
 !-- prettier-ignore-start -->
 - [Thura Hein](https://github.com/thurahein123)
-
 * [Mark Tu](https://github.com/MarksTheme)
 - [Priyanshu Chaudhary](https://github.com/ChaudharyPriyanshu88)
 - [Allan Moura](https://github.com/allansmora/)
@@ -23,7 +22,7 @@
 - [Emmanuel Ogheneovo Awefada](https://github.com/EmmanuelOvo-js)
 -[Yasir Mb](https://github.com/yasirmb)
 - [Mohamad Oghli](https://github.com/mohammad-oghli)
--
+- [Adeniyi Oluwaseun](https://github.com/morayosore)
 - [Victor Ikeme] (https://github.com/CloudIkeme)
 - [Shahzaib Iqbal](https://github.com/Shahzaib-Iqbal-1057)
 - [Kaif Arslan](https://github.com/KaifArslan)
